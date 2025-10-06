@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-This is an example to use the Agentic capablities as of Oct 2025, in CoPilot. Used Claude Sonnett 3.5 to create a simple task list application. This application does not use a MCP. It used a simples postgres table and uses prisma which is a ORM tool for Postgres. This is just for learning purposes and has no other intent. 
+This is an example to use the Agentic capablities as of Oct 2025, in CoPilot. Used Claude Sonnett 3.5 to create a simple task list application. This application does not use a MCP. It used a simples postgres table and uses prisma which is a ORM tool for Postgres. This is just for learning purposes and has no other intent. ![A descriptive diagram](https://github.com/vibhusrinivasan/tasklist/blob/main/public/TasklistDemo.png "Example Tasklist view")
 First, run the development server:
 
 ```bash
