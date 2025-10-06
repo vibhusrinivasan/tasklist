@@ -1,4 +1,5 @@
-Agentic workflows are especially valuable for learning and relearning. Today, I explored how quickly a basic task list application could be built—completing the project in about 30 minutes.
+
+Agentic workflows offer significant advantages for both learning and skill refreshment. As someone who previously wrote code regularly, I’ve noticed that technical proficiency can diminish over time without consistent practice. Recently, I explored how GitHub Copilot’s agentic capabilities could assist in regaining and enhancing my coding skills. Using these tools, I was able to build a basic task list application in approximately 30 minutes—a process that would have previously taken much longer.
 
 Here’s how agents accelerated the process:
 
